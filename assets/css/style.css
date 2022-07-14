@@ -280,17 +280,28 @@ header .btn-group {
   background: var(--background-primary);
   top: 50%;
   left: 50%;
+  item-align: center;
+  justify-content: center;
+}
+
+.me .container{
+  top: 50%;
+  left: 50%;
   transform: translate(-50%,-50%);
   text-align: center;
 }
 
 .me .h1 {
   margin-bottom: 1rem;
+  item-align: center;
+  justify-content: center;
   line-height: 1.3;
 }
 
 .me b {
   color: var(--accent);
+  item-align: center;
+  justify-content: center;
   font-weight: inherit;
 }
 
