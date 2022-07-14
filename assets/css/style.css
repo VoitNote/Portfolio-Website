@@ -278,8 +278,6 @@ header .btn-group {
 .me {
   min-height: 100vh;
   background: var(--background-primary);
-  padding-top:    2rem;
-  padding-bottom: var(--py);
   text-align: center;
   justify-content: center;
 }
