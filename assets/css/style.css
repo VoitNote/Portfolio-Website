@@ -278,18 +278,10 @@ header .btn-group {
 .me {
   min-height: 100vh;
   background: var(--background-primary);
-  position: relative;
   top: 50%;
   left: 50%;
   item-align: center;
   justify-content: center;
-}
-
-.me .container{
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%,-50%);
-  text-align: center;
 }
 
 .me .h1 {
