@@ -69,6 +69,7 @@ button {
 }
 
 html {
+  scroll-behavior: smooth;
   font-family: "Inter", sans-serif;
   font-size: var(--fs-base);
   line-height: 1.8;
@@ -275,6 +276,7 @@ header .btn-group {
 
 /*Profilbild Edits*/
 .me {
+  min-height: 100vh;
   background: var(--background-primary);
   padding-top:    2rem;
   padding-bottom: var(--py);
