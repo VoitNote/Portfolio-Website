@@ -277,7 +277,6 @@ header .btn-group {
 /*Profilbild Edits*/
 .me {
   min-height: 100vh;
-  background: var(--background-primary);
   text-align: center;
   justify-content: center;
 }
